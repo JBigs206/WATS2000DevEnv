@@ -15,6 +15,7 @@ $icon-font-path: "../bower_components/bootstrap-sass/assets/fonts/bootstrap/";
 body {
   padding-top: 20px;
   padding-bottom: 20px;
+  background-color: blue;		
 }
 
 /* Everything but the jumbotron gets side spacing for mobile first views */
@@ -28,6 +29,12 @@ body {
 /* Custom page header */
 .header {
   border-bottom: 1px solid #e5e5e5;
+  background-image: url("Hallstatt.jpg");	
+}
+	
+h1 {
+    color: green;
+}	
 
   /* Make the masthead heading the same height as the navigation */
   h3 {
