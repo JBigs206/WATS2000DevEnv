@@ -40,7 +40,7 @@ module.exports = function (grunt) {
       },
       pages: {
         options: {
-          remote: 'https://github.com/JBigs206/WATS2000DevEnv.gitjikuji',
+          remote: 'https://github.com/JBigs206/WATS2000DevEnv.git',
           branch: 'gh-pages'
         }
       }
