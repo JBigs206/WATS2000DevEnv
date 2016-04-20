@@ -1,6 +1,6 @@
 // Generated on 2016-03-31 using
 // generator-webapp 1.1.2
-//'use strict';
+'use strict';
 
 // # Globbing
 // for performance reasons we're only matching one level down:
@@ -40,7 +40,7 @@ module.exports = function (grunt) {
       },
       pages: {
         options: {
-          remote: 'git@github.com:JBigs206/WATS2000DevEnv.git',
+          remote: 'https://github.com/JBigs206/WATS2000DevEnv.gitjikuji',
           branch: 'gh-pages'
         }
       }
